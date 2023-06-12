@@ -1,4 +1,4 @@
-# jayCS
+# JayCS
 client server req-resp optimization for Jay
 ### Below instructions will allow you to run the app and servers simultaneously in all three approaches.
 
